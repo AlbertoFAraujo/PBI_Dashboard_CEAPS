@@ -32,6 +32,9 @@ Base de dados: https://www12.senado.leg.br/transparencia/dados-abertos-transpar
 <hr>
 
 ### Projeto Final:
-![ceaps3](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/ec189bcd-d3d7-4667-b0a9-1622b33ee815)
-![ceaps1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/c63c2f3e-eecb-4810-9479-8db6239407bc)
-![ceaps2](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/369b8ea1-2e86-46c7-b12a-9da63c6587c2)
+![capa](https://github.com/AlbertoFAraujo/PBI_Dashboard_CEAPS/assets/105552990/b8058910-a046-48d8-93dc-7a1d4d5c58f5)
+![p1](https://github.com/AlbertoFAraujo/PBI_Dashboard_CEAPS/assets/105552990/91974e6e-7275-449c-ac39-44bbd1c2fad0)
+![p2](https://github.com/AlbertoFAraujo/PBI_Dashboard_CEAPS/assets/105552990/84704e28-c338-49dd-8709-5c2722c5bbff)
+
+
+
